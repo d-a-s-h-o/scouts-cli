@@ -1,0 +1,110 @@
+{
+    "scouts": {
+        "scout1": {
+            "name": "",
+            "points": 0,
+            "rank": "",
+            "patrol": "",
+            "section": "",
+            "events_attended": [],
+            "badges_earned": [],
+            "badges_received": [],
+            "dob": "",
+            "scouts_phone": "",
+            "parents": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "email": "",
+                    "address": ""
+                }
+            ],
+            "medical": {
+                "allergies": "",
+                "medications": "",
+                "conditions": "",
+                "notes": "",
+                "doctor": {
+                    "name": "",
+                    "phone": ""
+                }
+            },
+            "payments": [
+                {
+                    "date": "",
+                    "amount": "",
+                    "method": "",
+                    "notes": ""
+                }
+            ]
+        },
+        "scout2": {
+            "name": "john",
+            "points": 0,
+            "rank": "",
+            "patrol": "",
+            "section": "",
+            "events_attended": [],
+            "badges_earned": [],
+            "badges_received": [],
+            "dob": "",
+            "scouts_phone": "",
+            "parents": [
+                {
+                    "name": "",
+                    "phone": "",
+                    "email": "",
+                    "address": ""
+                }
+            ],
+            "medical": {
+                "allergies": "",
+                "medications": "",
+                "conditions": "",
+                "notes": "",
+                "doctor": {
+                    "name": "",
+                    "phone": ""
+                }
+            },
+            "payments": [
+                {
+                    "date": "",
+                    "amount": "",
+                    "method": "",
+                    "notes": ""
+                }
+            ]
+        },
+        "scout3": {
+            "name": "John",
+            "points": 0,
+            "rank": "",
+            "patrol": "Red",
+            "section": "Cubs",
+            "events_attended": [],
+            "badges_earned": [],
+            "badges_received": [],
+            "dob": "26/10/2013",
+            "scouts_phone": "0875553322",
+            "parents": [],
+            "medical": {
+                "allergies": "Bullshit",
+                "medications": "Your Mom",
+                "conditions": "Authistic as fuck",
+                "notes": "Total wacko",
+                "doctor": {
+                    "name": "My Ballz",
+                    "phone": "Your Ballz"
+                }
+            },
+            "payments": []
+        }
+    },
+    "patrols": {},
+    "leaders": {},
+    "sections": {},
+    "troops": {},
+    "events": {},
+    "badges": {}
+}
